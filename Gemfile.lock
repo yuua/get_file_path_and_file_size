@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    addressable (2.3.6)
+    fastimage (1.6.2)
+      addressable (~> 2.3, >= 2.3.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  fastimage (~> 1.6.2)
